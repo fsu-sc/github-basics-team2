@@ -1,3 +1,1 @@
-First commit
-
-change in text 
+I tried different git commands like how to config git, clone a repo, create a new branch, compare changes for previous and new commits and how to revert back to the previous commit, push to a new branch, switch between branches, create a pull request
